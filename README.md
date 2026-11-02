@@ -1,2 +1,3 @@
-# c3ds-2026
+# c3ds-2026 revise title
 my work form d3ds week2
+where I learn r, git and machine learning.
